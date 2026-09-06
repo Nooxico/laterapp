@@ -4,7 +4,7 @@
 **App:** Later (iOS)  
 **Developer:** aduserx
 **Contact:** latertheapp@gmail.com
-**This policy URL:** https://nooxico.github.io/laterapp/privacy-policy
+**This policy URL:** https://nooxico.github.io/laterapp/privacy-policy.html
 
 This Privacy Policy explains how Later (“the App”) handles information when you use it. Later is a personal, private movie and TV diary. It is free, has no ads, does not create user accounts, and does not include social features.
 
