@@ -125,7 +125,7 @@ We may update this Privacy Policy from time to time. We will change the “Last 
 ## 12. Contact
 
 Questions about privacy: **latertheapp@gmail.com**  
-Policy page: **[https://YOUR-HOSTED-URL/privacy]**
+Policy page: **https://nooxico.github.io/laterapp/privacy-policy.html**
 
 ---
 
