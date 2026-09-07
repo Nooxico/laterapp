@@ -17,7 +17,7 @@ By using the App, you agree to this Privacy Policy.
 - Your lists, ratings, notes, and watch dates are stored **on your device**.
 - We do **not** create accounts or user profiles.
 - We do **not** show ads, sell your data, or track you across apps or websites.
-- When you search for or open a title, the App requests metadata and scores from **third-party services** (The Movie Database / TMDB and OMDb). Those services may receive your query and standard technical information (such as IP address).
+- When you search for or open a title, the App requests metadata and scores from **third-party services** (The Movie Database / TMDB). Those services may receive your query and standard technical information (such as IP address).
 - **iCloud sync is not included in the current version.** If we add it later, we will update this policy before enabling it.
 
 ---
@@ -39,22 +39,20 @@ This information stays on your device unless you use features that send it elsew
 
 ## 3. Information sent off your device
 
-### 3.1 TMDB and OMDb (movie / TV metadata)
+### 3.1 TMDB (movie / TV metadata)
 
 To show titles, posters, cast, plots, ratings/scores, and related metadata, Later contacts:
 
 - **The Movie Database (TMDB)** — https://www.themoviedb.org and its API  
-- **OMDb (Open Movie Database)** — https://www.omdbapi.com  
 
 When you search or open a title, the App may send:
 
 - Search text and/or title identifiers needed to fetch results  
 - Technical request data those services typically receive (for example IP address, date/time, user-agent)
 
-We do not control TMDB or OMDb. Their handling of data is governed by their own policies:
+We do not control TMDB. Their handling of data is governed by their own policies:
 
 - TMDB: https://www.themoviedb.org/privacy-policy  
-- OMDb: see https://www.omdbapi.com (and any privacy/legal pages linked there)
 
 ### 3.2 What we do not collect
 
@@ -71,7 +69,7 @@ In the current version, Later does **not**:
 ## 4. How information is used
 
 - **On-device data** is used only to provide Later’s features (your private shelf, diary, filters, discovery based on your own ratings/likes).  
-- **TMDB / OMDb requests** are used only to retrieve and display title metadata and scores for App functionality.
+- **TMDB requests** are used only to retrieve and display title metadata and scores for App functionality.
 
 ---
 
@@ -98,7 +96,7 @@ Later is not directed at children under 13. We do not knowingly collect personal
 ## 8. Your choices
 
 - Use Later without creating an account.  
-- Limit what you search or open to control what is sent to TMDB/OMDb.  
+- Limit what you search or open to control what is sent to TMDB.  
 - Uninstall the App to remove local App data from that device.  
 - Contact us at latertheapp@gmail.com with privacy questions or requests.
 
@@ -112,7 +110,7 @@ We may add optional **iCloud sync** in a future version so your shelf can sync a
 
 ## 10. International users
 
-Third-party servers (TMDB, OMDb) and, if you email us, our email provider may process information in countries other than yours. By using the App, you understand that such transfers may occur as needed to operate the App.
+Third-party servers (TMDB) and, if you email us, our email provider may process information in countries other than yours. By using the App, you understand that such transfers may occur as needed to operate the App.
 
 ---
 

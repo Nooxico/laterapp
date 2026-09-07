@@ -18,7 +18,7 @@ Personal movie & TV diary for iOS. Keep a watchlist, mark what you’ve seen, ra
 
 ## Privacy
 
-Later stores your library on this device only. There are no user accounts, ads, or social features. When you search for or open a title, movie/TV metadata and scores are requested from [TMDB](https://www.themoviedb.org/) and [OMDb](https://www.omdbapi.com/); those services may receive your query.
+Later stores your library on this device only. There are no user accounts, ads, or social features. When you search for or open a title, movie/TV metadata and scores are requested from [TMDB](https://www.themoviedb.org/); that service may receive your query.
 
 **Full Privacy Policy:** [privacy-policy.md](privacy-policy.md)  
 Public page (GitHub Pages): https://nooxico.github.io/laterapp/privacy-policy.html
@@ -27,7 +27,7 @@ This repository is public so Apple and users can open the policy without signing
 
 ## Data sources
 
-Title metadata and scores come from [TMDB](https://www.themoviedb.org/) and [OMDb](https://www.omdbapi.com/). Later is not endorsed, certified, or otherwise approved by TMDB or OMDb.
+Title metadata and scores come from [TMDB](https://www.themoviedb.org/). Later is not endorsed, certified, or otherwise approved by TMDB.
 
 ## License
 
