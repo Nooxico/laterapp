@@ -20,6 +20,9 @@ Personal movie & TV diary for iOS. Keep a watchlist, mark what you’ve seen, ra
 
 Later stores your library on this device only. There are no user accounts, ads, or social features. When you search for or open a title, movie/TV metadata and scores are requested from [TMDB](https://www.themoviedb.org/); that service may receive your query.
 
+**Import from Letterboxd:** [import-from-letterboxd.md](import-from-letterboxd.md)  
+Public page (GitHub Pages): https://nooxico.github.io/laterapp/import-from-letterboxd.html
+
 **Full Privacy Policy:** [privacy-policy.md](privacy-policy.md)  
 Public page (GitHub Pages): https://nooxico.github.io/laterapp/privacy-policy.html
 
