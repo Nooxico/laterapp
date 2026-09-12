@@ -22,7 +22,7 @@ Public page: https://nooxico.github.io/laterapp/import-from-letterboxd.html
 
 ## Notes
 
-- **Movies only** — TV shows in the export are not imported.
+- **Letterboxd doesn’t export TV shows** — it’s a film platform, so TV isn’t in the ZIP. Later still supports TV when you add shows yourself.
 - **Unmatched titles** are skipped if Later cannot find them on TMDB.
 - Import **merges** with your existing Later library (it does not wipe it).
 - Your library data **stays on your device**.
